@@ -1,7 +1,17 @@
 {
   "Deploy": {
     "Project": {
-      "Workspaces": []
+      "Name": "wupti cicd",
+      "Alias": "wupti-cicd",
+      "Id": "9471ca67-e89c-452f-9d16-da6ffac6862e",
+      "Workspaces": [
+        {
+          "Id": "07745b57-1fd2-421b-b996-c7e0602a59c2",
+          "Name": "Live",
+          "Type": "live",
+          "Url": "https://wupti-cicd.euwest01.rainbowsrock.net"
+        }
+      ]
     },
     "Settings": {}
   },
