@@ -23,6 +23,7 @@
           "Key": "28f52a44-4503-4135-9f37-df858c26293c",
           "Alias": "body",
           "DataType": "umb://data-type/ca90c9500aff4e72b976a30b1ac57dad",
+          "Description": "A body good description",
           "Name": "Body"
         }
       ]
