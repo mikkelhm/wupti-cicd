@@ -22,7 +22,7 @@ app.UseUmbraco()
     .WithEndpoints(u =>
     {
         u.UseBackOfficeEndpoints();
-        u.UseWebsiteEndpoints();;
+        u.UseWebsiteEndpoints();
     });
 
 await app.RunAsync();
