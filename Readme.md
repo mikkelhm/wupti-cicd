@@ -1,6 +1,6 @@
 # Welcome to Umbraco Cloud
 
-In order to run Umbraco locally you will need to [install latest supported .NET SDK](https://dotnet.microsoft.com/download) for the Umbraco version you are using (if you do not have this already)
+In order to run Umbraco locally you will need to [install latest supported .NET SDK](https://dotnet.microsoft.com/download) for the Umbraco version you are using (if you do not have this already).
 
 With dotnet installed, run the following commands in your terminal application of choice:
 
